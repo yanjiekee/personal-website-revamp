@@ -1,0 +1,24 @@
+#text-top {
+	top: 27%;
+}
+
+#text-bot {
+  bottom: 27%;
+}
+
+.homepage-title {
+  position: absolute;
+  width: 100%;
+  text-align: center;
+	z-index: 100;
+	display: block;
+  left: 0px;
+  color: #C5D2D3;
+  font-size: 50px;
+}
+
+canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
